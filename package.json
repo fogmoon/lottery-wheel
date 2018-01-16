@@ -39,7 +39,7 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
     "gulp": "^3.9.1",
-    "gulp-bro": "^1.0.2",
+    "gulp-bro": "^1.0.3",
     "gulp-changed": "^3.2.0",
     "gulp-clean": "^0.4.0",
     "gulp-rename": "^1.2.2",
